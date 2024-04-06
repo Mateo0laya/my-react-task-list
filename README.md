@@ -1,6 +1,6 @@
-# React + Vite
+# My Task List App with React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![image](https://github.com/Mateo0laya/my-react-task-list/assets/89365336/7621bb00-a831-4f2b-86e4-08ffe9acb6d2)
 
 Currently, two official plugins are available:
 
